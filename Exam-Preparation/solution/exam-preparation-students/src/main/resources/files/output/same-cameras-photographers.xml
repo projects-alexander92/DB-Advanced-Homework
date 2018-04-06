@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<photographers>
+    <photographer name="Zhang Xiao" primary-camera="Canon 70D"/>
+    <photographer name="Amparo Goers" primary-camera="Fuji XT10"/>
+    <photographer name="Leon Recio" primary-camera="Pentax K-3 II"/>
+    <photographer name="Alica Lacher" primary-camera="Nikon D4"/>
+    <photographer name="Hungo Poter" primary-camera="Nikon D40"/>
+    <photographer name="Opal Blue" primary-camera="Fuji XA2"/>
+    <photographer name="Meggan Danzy" primary-camera="Fuji X100"/>
+    <photographer name="Jamie Mauger" primary-camera="Fuji XT10"/>
+    <photographer name="Stephnie Arciniega" primary-camera="Nikon D5"/>
+    <photographer name="Rosalba Hane" primary-camera="Nikon D7000"/>
+    <photographer name="Freeda Casimir" primary-camera="Canon 600D"/>
+    <photographer name="Ralph Rizer" primary-camera="Pentax K-5 II"/>
+    <photographer name="Fidel Sato" primary-camera="Nikon D300"/>
+    <photographer name="Dani Vanness" primary-camera="Nikon D200"/>
+    <photographer name="Azucena Stclaire" primary-camera="Pentax K-5"/>
+    <photographer name="Talitha Jong" primary-camera="Nikon D500"/>
+    <photographer name="Danny Nethery" primary-camera="Fuji XA2"/>
+    <photographer name="Wilfredo Finnegan" primary-camera="Sony A33"/>
+    <photographer name="Antonetta Gano" primary-camera="Nikon D200"/>
+    <photographer name="Adria Mcquire" primary-camera="Sony A35"/>
+    <photographer name="Wendy Ellwood" primary-camera="Canon 100D"/>
+    <photographer name="China Horsey" primary-camera="Nikon D300"/>
+    <photographer name="Shannon Clendenin" primary-camera="Fuji XM1"/>
+    <photographer name="Federico Arceo" primary-camera="Fuji XF1"/>
+    <photographer name="Gena Gering" primary-camera="Fuji XT10"/>
+    <photographer name="Beverley Kirby" primary-camera="Fuji X100"/>
+    <photographer name="Benjamin Lindblad" primary-camera="Fuji X70"/>
+</photographers>
